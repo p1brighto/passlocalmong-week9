@@ -11,3 +11,6 @@
 /// <reference path="express-session/express-session.d.ts" />
 /// <reference path="mongoose/mongoose.d.ts" />
 /// <reference path="morgan/morgan.d.ts" />
+/// <reference path="passport-local/passport-local.d.ts" />
+/// <reference path="passport/passport.d.ts" />
+/// <reference path="serve-favicon/serve-favicon.d.ts" />

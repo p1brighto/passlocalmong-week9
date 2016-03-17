@@ -43,6 +43,15 @@
     },
     "morgan/morgan.d.ts": {
       "commit": "cc3d223a946f661eff871787edeb0fcb8f0db156"
+    },
+    "passport/passport.d.ts": {
+      "commit": "cc3d223a946f661eff871787edeb0fcb8f0db156"
+    },
+    "passport-local/passport-local.d.ts": {
+      "commit": "cc3d223a946f661eff871787edeb0fcb8f0db156"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "cc3d223a946f661eff871787edeb0fcb8f0db156"
     }
   }
 }
